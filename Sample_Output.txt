@@ -1,0 +1,12 @@
+
+---
+
+### 📄 `sample_output.txt`
+```txt
+afpacket DAQ configured to passive.
+Commencing packet processing
+++ [0] eth0
+
+06/25-11:13:14.912595 [**] [1:1001337:1] "🚨 My Custom ICMP Rule Triggered" [**] [Priority: 0] {ICMP} fe80::20c:29ff:fe9d:9af5 -> fe80::20b7:96ff:fea5:35d9
+06/25-11:13:23.175868 [**] [1:1001337:1] "🚨 My Custom ICMP Rule Triggered" [**] [Priority: 0] {ICMP} 192.168.146.171 -> 192.168.146.97
+06/25-11:13:24.204020 [**] [1:1001337:1] "🚨 My Custom ICMP Rule Triggered" [**] [Priority: 0] {ICMP} 192.168.146.97 -> 192.168.146.171

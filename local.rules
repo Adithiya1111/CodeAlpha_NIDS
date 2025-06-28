@@ -1,0 +1,1 @@
+alert icmp any any -> any any (msg:"🚨 My Custom ICMP Rule Triggered"; sid:1001337; rev:1;)
